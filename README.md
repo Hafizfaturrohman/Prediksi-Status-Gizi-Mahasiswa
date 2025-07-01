@@ -1,2 +1,1 @@
-![Poster](https://github.com/hafizfaturrohman/prediksi-status-gizi/blob/main/Poster%20Prediksi%20Status%20Gizi%20Mahasiswa.png?raw=true)
-
+![Poster Prediksi Status Gizi Mahasiswa Berdasarkan Pola Aktivitas Harian Menggunakan Algoritma Decision Tree dan Aplikasi Streamlit](https://github.com/user-attachments/assets/75ad0223-0b06-4670-9ad1-a48f882479ec)
